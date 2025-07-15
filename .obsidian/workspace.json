@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "1e3633ba4179a283",
+    "type": "split",
+    "children": [
+      {
+        "id": "03f9687aa299cde5",
+        "type": "tabs",
+        "dimension": 41.15691489361702,
+        "children": [
+          {
+            "id": "eb114585309f5479",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Devops/Devops Roadmap.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Devops Roadmap"
+            }
+          }
+        ]
+      },
+      {
+        "id": "c39f1768e1a95d2c",
+        "type": "tabs",
+        "dimension": 58.84308510638297,
+        "children": [
+          {
+            "id": "15f5c04e15ed0ef0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Граф"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fbd0efd262b3e69",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d9ccd5e2f507ac8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "985c5f8b759423d0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "cfaad99d352b25bb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "416ad1c5a3f46235",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5
+  },
+  "right": {
+    "id": "96a0cd59d5ef961a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f3cfb4fe4eb14ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f69b09eec04d7ae6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Devops/Devops Roadmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Devops Roadmap"
+            }
+          },
+          {
+            "id": "c3a7696d0f458939",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Devops/Devops Roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Devops Roadmap"
+            }
+          },
+          {
+            "id": "a767ced3867b64a7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "9a6d398bc66c9dad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Devops/Devops Roadmap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Devops Roadmap"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "eb114585309f5479",
+  "lastOpenFiles": [
+    "Devops/Контейнеризация и оркестрация/Контейнеризация и оркестрация.md",
+    "Devops/Devops Roadmap.md",
+    "Devops/Git/Git.md",
+    "Devops/CI-CD/CI-CD.md",
+    "Devops/CI-CD",
+    "Devops/Контейнеризация и оркестрация/Kubernetes.md",
+    "Devops/Контейнеризация и оркестрация/Docker.md",
+    "Devops/Сети/Сети.md",
+    "Devops/Сети",
+    "Devops/Контейнеризация и оркестрация",
+    "Devops/Git",
+    "Devops/Linux/Linux.md",
+    "Devops/Linux/Работа с файлами.md",
+    "Devops",
+    "Devops/Linux/Страницы руководств man.md",
+    "Devops/Linux/Работа с директориями.md",
+    "Без названия.canvas",
+    "Images/Pasted image 20250715185947.png",
+    "Images/Pasted image 20250715185906.png",
+    "Images",
+    "Devops/Linux",
+    "создайте ссылку.md",
+    "Добро пожаловать.md"
+  ]
+}
