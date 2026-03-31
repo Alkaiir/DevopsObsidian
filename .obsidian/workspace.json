@@ -1,34 +1,24 @@
 {
   "main": {
-    "id": "1e3633ba4179a283",
+    "id": "7a1de1f0ff0e2d13",
     "type": "split",
     "children": [
       {
-        "id": "c39f1768e1a95d2c",
+        "id": "e003da984a454645",
         "type": "tabs",
         "children": [
           {
-            "id": "15f5c04e15ed0ef0",
+            "id": "7452025e8130116e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Devops/Linux/Linux.md",
+                "file": "Devops/Linux/Конспект.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linux"
-            }
-          },
-          {
-            "id": "fa2f9d1241abb787",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "title": "Конспект"
             }
           }
         ]
@@ -37,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9fbd0efd262b3e69",
+    "id": "4d95fa30b1e1acc5",
     "type": "split",
     "children": [
       {
-        "id": "6d9ccd5e2f507ac8",
+        "id": "2694b9e8cca4ab42",
         "type": "tabs",
         "children": [
           {
-            "id": "985c5f8b759423d0",
+            "id": "a945c3cf94537733",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -58,7 +48,7 @@
             }
           },
           {
-            "id": "cfaad99d352b25bb",
+            "id": "313d56ea7537d63c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -75,7 +65,7 @@
             }
           },
           {
-            "id": "416ad1c5a3f46235",
+            "id": "f76d8c7c7d977c8b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 252.5
   },
   "right": {
-    "id": "96a0cd59d5ef961a",
+    "id": "b4d9ff6a088ad827",
     "type": "split",
     "children": [
       {
-        "id": "4f3cfb4fe4eb14ec",
+        "id": "0100be524a32761b",
         "type": "tabs",
         "children": [
           {
-            "id": "f69b09eec04d7ae6",
+            "id": "0575f05ab739c8a4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Devops/Linux/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Linux"
+              "title": "Обратные ссылки"
             }
           },
           {
-            "id": "c3a7696d0f458939",
+            "id": "8d7f8400873f89f0",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Devops/Linux/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Linux"
+              "title": "Исходящие ссылки"
             }
           },
           {
-            "id": "a767ced3867b64a7",
+            "id": "c857f4b18523b0f9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -147,18 +135,31 @@
             }
           },
           {
-            "id": "9a6d398bc66c9dad",
+            "id": "fb317b057235f134",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Devops/Linux/Linux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Linux"
+              "title": "Структура"
+            }
+          },
+          {
+            "id": "e2f8dc244b2c128f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
             }
           }
         ]
@@ -175,38 +176,32 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
     }
   },
-  "active": "15f5c04e15ed0ef0",
+  "active": "7452025e8130116e",
   "lastOpenFiles": [
-    "Devops/Linux/Linux.md",
-    "Devops/Linux/Решение типовых задач в Linux.md",
+    "Без названия.canvas",
+    "Devops/Linux/Конспект.md",
     "Devops/Linux/Сухой список команд.md",
+    "Devops/Linux/Linux.md",
+    "Devops/Git/Git.md",
+    "2026-03-31.md",
+    "Без названия 1.base",
+    "Без названия 2.base",
+    "Без названия.base",
+    "Без названия 1.canvas",
     "Devops/Linux/Linux CLI и основные команды.md",
-    "Devops/Linux/Краткий список команд Linux.md",
-    "Devops/Linux/Работа с содержимым файлов.md",
-    "Devops/Linux/Страницы руководств man.md",
-    "Devops/Linux/Работа с директориями.md",
-    "Devops/Linux/Работа с файлами.md",
+    "Devops/CI-CD/CI-CD.md",
     "Devops/Devops Roadmap.md",
     "Devops/Контейнеризация и оркестрация/Контейнеризация и оркестрация.md",
-    "Devops/Git/Git.md",
-    "Devops/CI-CD/CI-CD.md",
-    "Devops/CI-CD",
     "Devops/Контейнеризация и оркестрация/Kubernetes.md",
     "Devops/Контейнеризация и оркестрация/Docker.md",
     "Devops/Сети/Сети.md",
-    "Devops/Сети",
-    "Devops/Контейнеризация и оркестрация",
-    "Devops/Git",
-    "Devops",
-    "Без названия.canvas",
-    "Images/Pasted image 20250715185947.png",
-    "Images/Pasted image 20250715185906.png",
-    "Images",
-    "Devops/Linux",
-    "создайте ссылку.md",
-    "Добро пожаловать.md"
+    "Devops/Linux/Решение типовых задач в Linux.md",
+    "Devops/Linux/Работа с директориями.md",
+    "Devops/Linux/Работа с файлами.md",
+    "Devops/Linux/Работа с содержимым файлов.md"
   ]
 }
